@@ -1,0 +1,9 @@
+{
+  "name": "@raydeck/useasynceffect",
+  "version": "1.0.0",
+  "description": "Hook for running useEffect with a promise",
+  "main": "index.js",
+  "repository": "https://github.com/rhdeck/useasynceffect",
+  "author": "Ray Deck",
+  "license": "MIT"
+}
